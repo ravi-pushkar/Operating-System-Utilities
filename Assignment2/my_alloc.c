@@ -3,14 +3,6 @@
 #include <sys/mman.h>
 
 
-/*
-@author Zuhaib Ul Zamann
-Course: MTL458-Operating Systems.
-Assignemnt 2.
-Date: 25-03-2021
-*/
-
-
 //Header for allocated space. 
 typedef struct header
 {

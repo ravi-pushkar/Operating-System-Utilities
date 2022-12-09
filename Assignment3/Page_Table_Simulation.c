@@ -1,9 +1,3 @@
-/*
- @author: Zuhaib Ul Zamann
- Entry Number: 2018MT60798
- Department of Mathematics and Computing, IITD
- Date: 14/04/2021
-*/
 #include<stdlib.h>
 #include<stdio.h>
 #include <string.h>
